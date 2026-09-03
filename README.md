@@ -38,4 +38,5 @@ FUTURE IMPROVEMENTS:-
    
 AUTHOR:-
 Mahak
+
 This project is a part of my learning journey in web development.
